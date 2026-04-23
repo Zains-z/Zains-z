@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-  Hi there! I'm Kaizzer
+  Hi there! I'm Kains
   <img src="https://media.tenor.com/Bve0fgKwVnYAAAAi/alverda-verdansa.gif" alt="Gif de saludo" height="8%" width="8%">
   </h3>
 </div>
@@ -66,7 +66,7 @@ I'm a **passionate developer** who loves crafting beautiful and functional web e
 
 ---
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaizzer-z&left_color=indigo&right_color=slategray"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kains-z&left_color=indigo&right_color=slategray"  />
 </div>
 
 <div align="center">
